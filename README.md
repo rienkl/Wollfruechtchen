@@ -1,4 +1,4 @@
-# Datenschutzerlärung
+# Datenschutzerklärung
 
 Der Betreiber dieser App nimmt den Schutz Ihrer persönlichen Daten sehr ernst. Ich behandele Ihre personenbezogenen Daten vertraulich und entsprechend der gesetzlichen Datenschutzvorschriften sowie dieser Datenschutzerklärung.
 
